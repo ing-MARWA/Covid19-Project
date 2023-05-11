@@ -12,6 +12,6 @@ Character Encodings
 Inconsistent Data Entry 
                            Efficiently fix typos in your data.
 # Conclusion  
-This project provides analysis of COVID_19 data , Started from Cleaning data, Analysing, Visualization this can help alot healthcare professionals an exact Articls and predict all Information about COVID_19 and how to contain the damadge.
+This project provides analysis of COVID_19 data , Started from Cleaning data, Analysing, Visualization this can help alot healthcare professionals to put an exact Articls and predict all Information about COVID_19 and how to contain the damadge.
                            
                      
